@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: ge-healthcare-frontend
+    env: node
+    buildCommand: cd website/frontend && npm install && npm run build
+    startCommand: cd website/frontend && npm run preview
+    rootDir: website/frontend
+    plan: free
+    envVars:
+      - key: VITE_BACKEND_URL
+        value: https://ge-healthcare-backend.onrender.com
+  - type: web
+    name: ge-healthcare-backend
+    env: python
+    buildCommand: pip install -r website/backend/requirements.txt
+    startCommand: python website/backend/app.py
+    rootDir: website/backend
+    plan: free
+    envVars:
+      - key: PORT
+        value: 10000

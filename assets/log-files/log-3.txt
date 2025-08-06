@@ -1,0 +1,20 @@
+2024-06-20 09:00:00 INFO Device startup - DeviceID: HD12345, Model: HeartMonitor-3000, Firmware: 1.2.3
+2024-06-20 09:05:15 INFO Patient data recorded - PatientID: 67890, FirstName: John, LastName: Doe, DOB: 1970-01-01, HeartRate: 72, BP: 120/80, DeviceID: HD12345
+2024-06-20 09:10:30 INFO Routine calibration performed - DeviceID: HD12345, CalibrationID: CAL45678
+2024-06-20 09:15:45 WARN Low battery - DeviceID: HD12345, BatteryLevel: 15%
+2024-06-20 09:20:00 INFO Patient data recorded - PatientID: 67891, FirstName: Jane, LastName: Smith, DOB: 1985-05-15, HeartRate: 85, BP: 130/85, DeviceID: HD12345
+2024-06-20 09:25:15 ERROR Sensor malfunction - DeviceID: HD12345, SensorID: SEN7890, ErrorCode: E001
+2024-06-20 09:30:30 INFO Device rebooted - DeviceID: HD12345
+2024-06-20 09:35:45 INFO Software update installed - DeviceID: HD12345, OldFirmware: 1.2.3, NewFirmware: 1.2.4
+2024-06-20 09:40:00 INFO Patient data recorded - PatientID: 67892, FirstName: Robert, LastName: Brown, DOB: 1990-07-22, HeartRate: 68, BP: 118/76, DeviceID: HD12345
+2024-06-20 09:45:15 INFO Scheduled maintenance completed - DeviceID: HD12345, MaintenanceID: MAIN56789
+2024-06-20 09:50:30 INFO Device self-check passed - DeviceID: HD12345
+2024-06-20 09:55:45 INFO Patient data recorded - PatientID: 67893, FirstName: Emily, LastName: White, DOB: 2000-11-30, HeartRate: 78, BP: 115/75, DeviceID: HD12345
+2024-06-20 10:00:00 INFO Device idle - DeviceID: HD12345
+2024-06-20 10:05:15 WARN High temperature detected - DeviceID: HD12345, Temperature: 85°C
+2024-06-20 10:10:30 INFO Patient data recorded - PatientID: 67894, FirstName: William, LastName: Black, DOB: 1975-03-15, HeartRate: 75, BP: 122/78, DeviceID: HD12345
+2024-06-20 10:15:45 INFO Battery replacement required - DeviceID: HD12345
+2024-06-20 10:20:00 INFO Device connected to network - DeviceID: HD12345, IP: 192.168.1.100
+2024-06-20 10:25:15 INFO Patient data recorded - PatientID: 67895, FirstName: Olivia, LastName: Green, DOB: 1988-12-12, HeartRate: 82, BP: 125/80, DeviceID: HD12345
+2024-06-20 10:30:30 INFO Device shutdown - DeviceID: HD12345
+2024-06-20 10:35:45 INFO Device startup - DeviceID: HD12345, Model: HeartMonitor-3000, Firmware: 1.2.4

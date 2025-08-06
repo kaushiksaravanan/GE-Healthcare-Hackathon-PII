@@ -1,0 +1,7 @@
+beautifulsoup4
+Faker
+presidio_analyzer
+presidio_anonymizer
+setuptools
+spacy
+wheel

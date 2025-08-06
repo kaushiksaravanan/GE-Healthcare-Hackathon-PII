@@ -1,0 +1,1 @@
+The server with IPv4 address 192.168.1.100, IPv6 address 2001:0db8:85a3:0000:0000:8a2e:0370:7334, and MAC address 00:1A:2B:3C:4D:5E is hosting the website.

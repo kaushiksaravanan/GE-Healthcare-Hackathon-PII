@@ -1,0 +1,20 @@
+Event Type: Information
+Event Source: GE_Healthcare_Server
+Event Category: None
+Event ID: 1001
+Date: 12/31/2022
+Time: 12:34:56 PM
+User: johndoe
+Computer: GE_Healthcare_Server
+Description:
+User 'johndoe' logged in from IP address 192.168.1.1.
+
+Event Type: Warning
+Event Source: GE_Healthcare_Server
+Event Category: None
+Event ID: 2001
+User: John, 
+Date: 12/31/2022
+Time: 12:35:01 PM
+Description:
+High CPU usage detected. Current usage at 85%.

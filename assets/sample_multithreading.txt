@@ -1,0 +1,1 @@
+John Doe, born on January 1st, 1980, resides at 123 Main Street, Anytown, USA. He works at XYZ Corporation as a software engineer. His email address is john.doe@example.com and his phone number is +1 (555) 123-4567. 

@@ -1,0 +1,46 @@
+### Recognized Entities
+
+- AADHAAR - Rule-based
+- ACCOUNTNAME - PII
+- ACCOUNTNUMBER - PII, Rule-based
+- AMOUNT - PII
+- BMI - Rule-based
+- CHEMICAL - PHI
+- CITY - DeBERTA
+- COMPANY_NAME - DeBERTA
+- CREDITCARDCVV - PII
+- CREDITCARDISSUER - PII
+- CREDITCARDNUMBER - PII
+- CURRENCYSYMBOL - DeBERTA
+- DATE - DeBERTA
+- DISEASE - PHI
+- DRUG_DOSE - PHI
+- EMAIL - DeBERTA, Rule-based
+- EVENT - Spacy
+- GENDER - PII
+- HEIGHT - Rule-based
+- IBAN - PII
+- IFSC - Rule-based
+- IP - DeBERTA
+- IPV4 - DeBERTA
+- JOBTYPE - DeBERTA
+- LANGUAGE - Spacy
+- LAW - Spacy
+- MAC - DeBERTA
+- MONEY - Spacy
+- PAN - Rule-based
+- PERCENT - Spacy
+- PERSON - Spacy
+- PHONE_NUMBER - DeBERTA
+- QUANTITY - Spacy
+- SEX - PII
+- SSN - PII
+- STATE - DeBERTA
+- STREETADDRESS - DeBERTA
+- TIME - DeBERTA
+- URL - DeBERTA
+- USERAGENT - DeBERTA
+- VEHICLEVIN - DeBERTA
+- WEIGHT - Rule-based
+- WORK_OF_ART - Spacy
+- ZIPCODE - PII

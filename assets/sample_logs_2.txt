@@ -1,0 +1,1 @@
+John Doe's email is john.doe@example.com. He lives in New York and works at OpenAI. His phone number is 123-456-7890.

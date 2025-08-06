@@ -1,0 +1,1 @@
+I downloaded the latest report from https://www.example.com/downloads/report.pdf located at C:\Users\Username\Downloads\report.pdf.

@@ -1,0 +1,188 @@
+INFO:root:about to clone!
+DEBUG:root:running: git clone --recursive https://github.com/HL7/US-Core --branch master repo
+DEBUG:root:Time to deadline 35879.99816 seconds
+Cloning into 'repo'...
+DEBUG:root:running: wget -q https://github.com/HL7/fhir-ig-publisher/releases/latest/download/publisher.jar -O publisher.jar
+DEBUG:root:Time to deadline 35860.264924 seconds
+DEBUG:root:running: npm -g install fsh-sushi
+DEBUG:root:Time to deadline 35858.994438 seconds
+load /scratch/repo/input/examples/Observation-EVS-item-example-89555-7.json                          (00:00.002 / 02:18.102, 2Gb)
+load /scratch/repo/input/examples/Observation-EVS-panel-example-89574-8.json                         (00:00.002 / 02:18.104, 2Gb)
+load /scratch/repo/input/examples/Observation-HVS-item-example-88122-7.json                          (00:00.002 / 02:18.106, 2Gb)
+load /scratch/repo/input/examples/Observation-HVS-item-example-88123-5.json                          (00:00.002 / 02:18.109, 2Gb)
+load /scratch/repo/input/examples/Observation-HVS-item-example-88124-3.json                          (00:00.002 / 02:18.111, 2Gb)
+10 May 2017 17:54:07,155 WARN [main] CustomEditorConfigurer.postProcessBeanFactory(187) | Passing PropertyEditor instances into CustomEditorConfigurer is deprecated: use PropertyEditorRegistrars or PropertyEditor class names instead. Offending key [java.util.Date; offending editor instance: org.springframework.beans.propertyeditors.CustomDateEditor@65a7eb23
+10 May 2017 17:54:31,060 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.healthcare.pba.model.PhSpecialCaseRVU
+10 May 2017 17:54:31,067 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.healthcare.pba.model.PhRvuMasterServiceReference
+10 May 2017 17:54:31,078 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.model.reference.Section
+10 May 2017 17:54:31,082 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.healthcare.pba.model.PhCaseRate
+10 May 2017 17:54:31,091 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.healthcare.admission.model.support.Province
+10 May 2017 17:54:31,095 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.model.PbaLookupType
+10 May 2017 17:54:31,103 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.model.reference.DoctorLookupInfo
+10 May 2017 17:54:31,107 WARN [main] CacheFactory.createCache(43) | read-only cache configured for mutable class: com.slmc.model.reference.DrSpecializationMajor
+load /scratch/repo/input/examples/Observation-HVS-panel-example-88121-9.json                         (00:00.002 / 02:18.113, 2Gb)
+load /scratch/repo/input/examples/Observation-PHQ9-item-example-44250-9.json                         (00:00.002 / 02:18.115, 2Gb)
+load /scratch/repo/input/examples/Observation-PHQ9-item-example-44251-7.json                         (00:00.004 / 02:18.120, 2Gb)
+load /scratch/repo/input/examples/Observation-PHQ9-item-example-44252-5.json                         (00:00.004 / 02:18.124, 2Gb)
+load /scratch/repo/input/examples/Observation-PHQ9-item-example-44253-3.json                         (00:00.004 / 02:18.128, 2Gb)
+load /scratch/repo/input/examples/Observation-PHQ9-item-example-44254-1.json                         (00:00.004 / 02:18.132, 2Gb)
+load /scratch/repo/input/examples/Observation-PHQ9-item-example-44255-8.json                         (00:00.004 / 02:18.137, 2Gb)
+2023-04-21 14:33:22
+Ms Johnson presented with severe headache and dizziness, and was diagnosed with a transient ischemic attack based on her symptoms and medical history. She was started on clopidogrel, statins, and antihypertensive therapy. A CT scan of the brain and carotid ultrasound were ordered. The patient was admitted to the hospital for further management and evaluation.
+Name: Ms Johnson
+Phone Number: +1-555-123-4567
+IP Address: 192.168.1.10
+MAC Address: 00:1A:2B:3C:4D:5E
+Address: 456 Elm St, Springfield, IL, 62704, USA
+Email ID: ms.johnson@example.com
+Credit Card Details: 4111-1111-1111-1111
+Aadhaar Details: 1234-5678-9012
+PAN Card: AAAPL1234C
+Driving License Number: D1234567
+Health Insurance Card Number: HIC-4567-8901-2345
+SSN Number: 123-45-6789
+Birth Date: 1985-06-12
+Tax Number: TIN123456
+Passport Number: N12345678
+GPS Latitude/Longitude: 39.7817, -89.6501
+Vehicle Address Number: VIN12345678901234
+Patient Number: 12578
+Billing Number: B1234567890
+Religion: Christian
+Gender: Female
+Weight: 150 lbs
+Height: 65 inches
+BMI: 24.96
+Passcode: 6789
+Age: 37
+
+2023-06-10 09:47:56
+Mr Lee presented with abdominal pain and nausea, and was diagnosed with acute pancreatitis based on his symptoms and elevated lipase levels. He was started on intravenous fluids, pain management, and fasting. An abdominal ultrasound and serum amylase test were ordered. The patient was admitted to the hospital for further management and evaluation.
+Name: Mr Lee
+Phone Number: +1-555-234-5678
+IP Address: 10.0.0.1
+MAC Address: 01:23:45:67:89:AB
+Address: 789 Maple Ave, Centerville, OH, 45459, USA
+Email ID: mr.lee@example.com
+Credit Card Details: 5500-0000-0000-0004
+Aadhaar Details: 2345-6789-0123
+PAN Card: BBBPL2345D
+Driving License Number: L2345678
+Health Insurance Card Number: HIC-6789-0123-4567
+SSN Number: 987-65-4321
+Birth Date: 1972-11-23
+Tax Number: TIN234567
+Passport Number: P23456789
+GPS Latitude/Longitude: 39.6273, -84.2033
+Vehicle Address Number: VIN23456789012345
+Patient Number: 67845
+Billing Number: B2345678901
+Religion: Buddhist
+Gender: Male
+Weight: 180 lbs
+Height: 70 inches
+BMI: 25.82
+Passcode: 1234
+Age: 51
+
+2023-08-15 16:22:45
+Ms Martinez presented with persistent cough and fever, and was diagnosed with community-acquired pneumonia based on her symptoms and chest X-ray findings. She was started on broad-spectrum antibiotics and supportive care. A sputum culture and complete blood count were ordered. The patient was admitted to the hospital for further management and evaluation.
+Name: Ms Martinez
+Phone Number: +1-555-345-6789
+IP Address: 172.16.0.2
+MAC Address: AB:CD:EF:12:34:56
+Address: 101 Oak St, Riverdale, CA, 93656, USA
+Email ID: ms.martinez@example.com
+Credit Card Details: 3400-0000-0000-0009
+Aadhaar Details: 3456-7890-1234
+PAN Card: CCCPL3456E
+Driving License Number: D3456789
+Health Insurance Card Number: HIC-7890-1234-5678
+SSN Number: 234-56-7890
+Birth Date: 1990-03-14
+Tax Number: TIN345678
+Passport Number: Q34567890
+GPS Latitude/Longitude: 36.4983, -119.8635
+Vehicle Address Number: VIN34567890123456
+Patient Number: 33452
+Billing Number: B3456789012
+Religion: Catholic
+Gender: Female
+Weight: 130 lbs
+Height: 64 inches
+BMI: 22.31
+Passcode: 2345
+Age: 34
+
+2023-11-04 10:15:38
+Mr Brown presented with fatigue and jaundice, and was diagnosed with acute hepatitis based on his symptoms and liver function tests. He was started on supportive care and antiviral therapy. A liver ultrasound and hepatitis panel were ordered. The patient was admitted to the hospital for further management and evaluation.
+Name: Mr Brown
+Phone Number: +1-555-456-7890
+IP Address: 192.168.0.3
+MAC Address: 12:34:56:78:9A:BC
+Address: 202 Pine St, Greenville, SC, 29607, USA
+Email ID: mr.brown@example.com
+Credit Card Details: 6011-0000-0000-0008
+Aadhaar Details: 4567-8901-2345
+PAN Card: DDDPL4567F
+Driving License Number: E4567890
+Health Insurance Card Number: HIC-8901-2345-6789
+SSN Number: 345-67-8901
+Birth Date: 1965-09-30
+Tax Number: TIN456789
+Passport Number: R45678901
+GPS Latitude/Longitude: 34.8526, -82.3940
+Vehicle Address Number: VIN45678901234567
+Patient Number: 98765
+Billing Number: B4567890123
+Religion: Jewish
+Gender: Male
+Weight: 170 lbs
+Height: 68 inches
+BMI: 25.84
+Passcode: 3456
+Age: 58
+
+2023-01-29 08:02:19
+Ms Taylor presented with palpitations and dizziness, and was diagnosed with atrial fibrillation based on her symptoms and electrocardiogram results. She was started on anticoagulants, rate control medications, and antiarrhythmic drugs. An echocardiogram and thyroid function tests were ordered. The patient was admitted to the hospital for further management and evaluation.
+Name: Ms Taylor
+Phone Number: +1-555-567-8901
+IP Address: 10.1.1.4
+MAC Address: BC:DE:F1:23:45:67
+Address: 303 Birch St, Summerville, GA, 30747, USA
+Email ID: ms.taylor@example.com
+Credit Card Details: 3530-0000-0000-0012
+Aadhaar Details: 5678-9012-3456
+PAN Card: EEAPL5678G
+Driving License Number: F5678901
+Health Insurance Card Number: HIC-9012-3456-7890
+SSN Number: 456-78-9012
+Birth Date: 1995-02-10
+Tax Number: TIN567890
+Passport Number: S56789012
+GPS Latitude/Longitude: 34.4803, -85.3477
+Vehicle Address Number: VIN56789012345678
+Patient Number: 45678
+Billing Number: B5678901234
+Religion: Hindu
+Gender: Female
+Weight: 140 lbs
+Height: 66 inches
+BMI: 22.59
+Passcode: 4567
+Age: 29
+2023-04-21 14:33:22
+Ms Johnson, residing at 456 Elm St, Springfield, IL, 62704, USA, with phone number +1-555-123-4567 and email ID ms.johnson@example.com, presented with severe headache and dizziness. Based on her symptoms and medical history, she was diagnosed with a transient ischemic attack. She was started on clopidogrel, statins, and antihypertensive therapy. A CT scan of the brain and carotid ultrasound were ordered. The patient, aged 37 (born on 1985-06-12), was admitted to the hospital for further management and evaluation. Other details: SSN 123-45-6789, Credit Card 4111-1111-1111-1111, Health Insurance Card Number HIC-4567-8901-2345, IP Address 192.168.1.10, MAC Address 00:1A:2B:3C:4D:5E, Aadhaar Details 1234-5678-9012, PAN Card AAAPL1234C, Driving License Number D1234567, Passport Number N12345678, GPS Coordinates 39.7817, -89.6501, Vehicle Address Number VIN12345678901234, Billing Number B1234567890, Religion Christian, Gender Female, Weight 150 lbs, Height 65 inches, BMI 24.96, Passcode 6789, Tax Number TIN123456.
+2023-06-10 09:47:56, Mr Lee, residing at 789 Maple Ave, Centerville, OH, 45459, USA, with phone number +1-555-234-5678 and email ID mr.lee@example.com, presented with abdominal pain and nausea. Based on his symptoms and elevated lipase levels, he was diagnosed with acute pancreatitis. He was started on intravenous fluids, pain management, and fasting. An abdominal ultrasound and serum amylase test were ordered. The patient, aged 51 (born on 1972-11-23), was admitted to the hospital for further management and evaluation. Other details: SSN 987-65-4321, Credit Card 5500-0000-0000-0004, Health Insurance Card Number HIC-6789-0123-4567, IP Address 10.0.0.1, MAC Address 01:23:45:67:89:AB, Aadhaar Details 2345-6789-0123, PAN Card BBBPL2345D, Driving License Number L2345678, Passport Number P23456789, GPS Coordinates 39.6273, -84.2033, Vehicle Address Number VIN23456789012345, Billing Number B2345678901, Religion Buddhist, Gender Male, Weight 180 lbs, Height 70 inches, BMI 25.82, Passcode 1234, Tax Number TIN2345 7.
+2023-08-15 16:22:45 ,Ms Martinez, residing at 101 Oak St, Riverdale, CA, 93656, USA, with phone number +1-555-345-6789 and email ID ms.martinez@example.com, presented with persistent cough and fever. Based on her symptoms and chest X-ray findings, she was diagnosed with community-acquired pneumonia. 
+Once upon a time, on a sunny spring morning, Ms. Johnson woke up feeling a sharp pain in her head. As she tried to get out of bed, the room began to spin, and she felt dizzy. Concerned, she called her primary care physician, who advised her to go to the hospital immediately.
+Upon arrival at the hospital, Ms. Johnson was greeted by a team of healthcare professionals who quickly assessed her condition. She described her symptoms of severe headache and dizziness, which raised concerns about a possible neurological issue.
+The attending physician ordered a series of tests, including a CT scan of the brain and a carotid ultrasound. These tests revealed evidence of a transient ischemic attack (TIA), a warning sign of a possible stroke. Ms. Johnson was started on medications to prevent further clot formation, including clopidogrel and statins. Additionally, she was prescribed antihypertensive therapy to manage her blood pressure.
+During the admission process, Ms. Johnson provided her personal information, including her name, phone number, address, and email ID. As part of the hospital's protocol, her credit card details were also collected for billing purposes. The medical team ensured her privacy and security by handling this sensitive information with utmost care.
+As Ms. Johnson rested in her hospital room, she reflected on the events of the day and felt grateful for the prompt and thorough care she received. She knew that her health was in good hands and trusted the medical professionals to guide her through the recovery process.
+Meanwhile, across town, Mr. Lee was experiencing intense abdominal pain and nausea. Unsure of the cause, he decided to seek medical attention at the same hospital where Ms. Johnson was being treated.
+Mr. Lee arrived at the emergency room, doubled over in pain. He described his symptoms to the triage nurse, who recognized the urgency of his condition and promptly admitted him for further evaluation.
+Tests revealed elevated levels of lipase, indicating acute pancreatitis. Mr. Lee was started on intravenous fluids to rehydrate his body and provide nutritional support. Pain management medications were also administered to alleviate his discomfort.
+Throughout his hospital stay, Mr. Lee's personal information, including his name, phone number, and address, was securely stored in the hospital's database. This information was used to coordinate his care and communicate with his family members.
+As the days passed, both Ms. Johnson and Mr. Lee underwent further tests and treatments to address their respective medical issues. Despite the challenges they faced, they found comfort in knowing that they were surrounded by a team of dedicated healthcare professionals who were committed to their well-being.
+Eventually, both patients were discharged from the hospital with instructions for follow-up care. As they returned to their daily lives, they carried with them a sense of gratitude for the timely intervention and compassionate care they received during their time of need.

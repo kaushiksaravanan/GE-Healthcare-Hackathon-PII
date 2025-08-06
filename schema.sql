@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS `table_test`;
+CREATE TABLE `table_test` (`id` INTEGER NOT NULL, `name` VARCHAR(100) NOT NULL, `email` VARCHAR(100) NOT NULL, `phone` VARCHAR(10) NOT NULL);
+

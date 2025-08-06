@@ -1,0 +1,2026 @@
+﻿ENTITY_NAME,ENTITY_TYPE
+Andorra,COUNTRY
+United Arab Emirates,COUNTRY
+Afghanistan,COUNTRY
+Antigua and Barbuda,COUNTRY
+Anguilla,COUNTRY
+Albania,COUNTRY
+Armenia,COUNTRY
+Netherlands Antilles,COUNTRY
+Angola,COUNTRY
+Antarctica,COUNTRY
+Argentina,COUNTRY
+American Samoa,COUNTRY
+Austria,COUNTRY
+Australia,COUNTRY
+Aruba,COUNTRY
+Azerbaijan,COUNTRY
+Bosnia and Herzegovina,COUNTRY
+Barbados,COUNTRY
+Bangladesh,COUNTRY
+Belgium,COUNTRY
+Burkina Faso,COUNTRY
+Bulgaria,COUNTRY
+Bahrain,COUNTRY
+Burundi,COUNTRY
+Benin,COUNTRY
+Bermuda,COUNTRY
+Brunei,COUNTRY
+Bolivia,COUNTRY
+Brazil,COUNTRY
+Bahamas,COUNTRY
+Bhutan,COUNTRY
+Bouvet Island,COUNTRY
+Botswana,COUNTRY
+Belarus,COUNTRY
+Belize,COUNTRY
+Canada,COUNTRY
+Cocos [Keeling] Islands,COUNTRY
+Congo [DRC],COUNTRY
+Central African Republic,COUNTRY
+Congo [Republic],COUNTRY
+Switzerland,COUNTRY
+Côte d'Ivoire,COUNTRY
+Cook Islands,COUNTRY
+Chile,COUNTRY
+Cameroon,COUNTRY
+China,COUNTRY
+Colombia,COUNTRY
+Costa Rica,COUNTRY
+Cuba,COUNTRY
+Cape Verde,COUNTRY
+Christmas Island,COUNTRY
+Cyprus,COUNTRY
+Czech Republic,COUNTRY
+Germany,COUNTRY
+Djibouti,COUNTRY
+Denmark,COUNTRY
+Dominica,COUNTRY
+Dominican Republic,COUNTRY
+Algeria,COUNTRY
+Ecuador,COUNTRY
+Estonia,COUNTRY
+Egypt,COUNTRY
+Western Sahara,COUNTRY
+Eritrea,COUNTRY
+Spain,COUNTRY
+Ethiopia,COUNTRY
+Finland,COUNTRY
+Fiji,COUNTRY
+Falkland Islands [Islas Malvinas],COUNTRY
+Micronesia,COUNTRY
+Faroe Islands,COUNTRY
+France,COUNTRY
+Gabon,COUNTRY
+United Kingdom,COUNTRY
+Grenada,COUNTRY
+Georgia,COUNTRY
+French Guiana,COUNTRY
+Guernsey,COUNTRY
+Ghana,COUNTRY
+Gibraltar,COUNTRY
+Greenland,COUNTRY
+Gambia,COUNTRY
+Guinea,COUNTRY
+Guadeloupe,COUNTRY
+Equatorial Guinea,COUNTRY
+Greece,COUNTRY
+South Georgia and the South Sandwich Islands,COUNTRY
+Guatemala,COUNTRY
+Guam,COUNTRY
+Guinea-Bissau,COUNTRY
+Guyana,COUNTRY
+Gaza Strip,COUNTRY
+Hong Kong,COUNTRY
+Heard Island and McDonald Islands,COUNTRY
+Honduras,COUNTRY
+Croatia,COUNTRY
+Haiti,COUNTRY
+Hungary,COUNTRY
+Indonesia,COUNTRY
+Ireland,COUNTRY
+Israel,COUNTRY
+Isle of Man,COUNTRY
+India,COUNTRY
+British Indian Ocean Territory,COUNTRY
+Iraq,COUNTRY
+Iran,COUNTRY
+Iceland,COUNTRY
+Italy,COUNTRY
+Jersey,COUNTRY
+Jamaica,COUNTRY
+Jordan,COUNTRY
+Japan,COUNTRY
+Kenya,COUNTRY
+Kyrgyzstan,COUNTRY
+Cambodia,COUNTRY
+Kiribati,COUNTRY
+Comoros,COUNTRY
+Saint Kitts and Nevis,COUNTRY
+North Korea,COUNTRY
+South Korea,COUNTRY
+Kuwait,COUNTRY
+Cayman Islands,COUNTRY
+Kazakhstan,COUNTRY
+Laos,COUNTRY
+Lebanon,COUNTRY
+Saint Lucia,COUNTRY
+Liechtenstein,COUNTRY
+Sri Lanka,COUNTRY
+Liberia,COUNTRY
+Lesotho,COUNTRY
+Lithuania,COUNTRY
+Luxembourg,COUNTRY
+Latvia,COUNTRY
+Libya,COUNTRY
+Morocco,COUNTRY
+Monaco,COUNTRY
+Moldova,COUNTRY
+Montenegro,COUNTRY
+Madagascar,COUNTRY
+Marshall Islands,COUNTRY
+Macedonia [FYROM],COUNTRY
+Mali,COUNTRY
+Myanmar [Burma],COUNTRY
+Mongolia,COUNTRY
+Macau,COUNTRY
+Northern Mariana Islands,COUNTRY
+Martinique,COUNTRY
+Mauritania,COUNTRY
+Montserrat,COUNTRY
+Malta,COUNTRY
+Mauritius,COUNTRY
+Maldives,COUNTRY
+Malawi,COUNTRY
+Mexico,COUNTRY
+Malaysia,COUNTRY
+Mozambique,COUNTRY
+Namibia,COUNTRY
+New Caledonia,COUNTRY
+Niger,COUNTRY
+Norfolk Island,COUNTRY
+Nigeria,COUNTRY
+Nicaragua,COUNTRY
+Netherlands,COUNTRY
+Norway,COUNTRY
+Nepal,COUNTRY
+Nauru,COUNTRY
+Niue,COUNTRY
+New Zealand,COUNTRY
+Oman,COUNTRY
+Panama,COUNTRY
+Peru,COUNTRY
+French Polynesia,COUNTRY
+Papua New Guinea,COUNTRY
+Philippines,COUNTRY
+Pakistan,COUNTRY
+Poland,COUNTRY
+Saint Pierre and Miquelon,COUNTRY
+Pitcairn Islands,COUNTRY
+Puerto Rico,COUNTRY
+Palestinian Territories,COUNTRY
+Portugal,COUNTRY
+Palau,COUNTRY
+Paraguay,COUNTRY
+Qatar,COUNTRY
+Réunion,COUNTRY
+Romania,COUNTRY
+Serbia,COUNTRY
+Russia,COUNTRY
+Rwanda,COUNTRY
+Saudi Arabia,COUNTRY
+Solomon Islands,COUNTRY
+Seychelles,COUNTRY
+Sudan,COUNTRY
+Sweden,COUNTRY
+Singapore,COUNTRY
+Saint Helena,COUNTRY
+Slovenia,COUNTRY
+Svalbard and Jan Mayen,COUNTRY
+Slovakia,COUNTRY
+Sierra Leone,COUNTRY
+San Marino,COUNTRY
+Senegal,COUNTRY
+Somalia,COUNTRY
+Suriname,COUNTRY
+São Tomé and Príncipe,COUNTRY
+El Salvador,COUNTRY
+Syria,COUNTRY
+Swaziland,COUNTRY
+Turks and Caicos Islands,COUNTRY
+Chad,COUNTRY
+French Southern Territories,COUNTRY
+Togo,COUNTRY
+Thailand,COUNTRY
+Tajikistan,COUNTRY
+Tokelau,COUNTRY
+Timor-Leste,COUNTRY
+Turkmenistan,COUNTRY
+Tunisia,COUNTRY
+Tonga,COUNTRY
+Turkey,COUNTRY
+Trinidad and Tobago,COUNTRY
+Tuvalu,COUNTRY
+Taiwan,COUNTRY
+Tanzania,COUNTRY
+Ukraine,COUNTRY
+Uganda,COUNTRY
+U.S. Minor Outlying Islands,COUNTRY
+United States,COUNTRY
+Uruguay,COUNTRY
+Uzbekistan,COUNTRY
+Vatican City,COUNTRY
+Saint Vincent and the Grenadines,COUNTRY
+Venezuela,COUNTRY
+British Virgin Islands,COUNTRY
+U.S. Virgin Islands,COUNTRY
+Vietnam,COUNTRY
+Vanuatu,COUNTRY
+Wallis and Futuna,COUNTRY
+Samoa,COUNTRY
+Kosovo,COUNTRY
+Yemen,COUNTRY
+Mayotte,COUNTRY
+South Africa,COUNTRY
+Zambia,COUNTRY
+Zimbabwe,COUNTRY
+UAE Dirham,CURRENCY
+Afghani,CURRENCY
+Lek,CURRENCY
+Armenian Dram,CURRENCY
+Netherlands Antillian Guilder,CURRENCY
+Kwanza,CURRENCY
+Argentine Peso,CURRENCY
+Australian Dollar,CURRENCY
+Aruban Guilder,CURRENCY
+Azerbaijanian Manat,CURRENCY
+Convertible Marks,CURRENCY
+Barbados Dollar,CURRENCY
+Taka,CURRENCY
+Bulgarian Lev,CURRENCY
+Bahraini Dinar,CURRENCY
+Burundi Franc,CURRENCY
+Bermudian Dollar (customarily known as Bermuda Dollar),CURRENCY
+Brunei Dollar,CURRENCY
+Boliviano Mvdol,CURRENCY
+Brazilian Real,CURRENCY
+Bahamian Dollar,CURRENCY
+Pula,CURRENCY
+Belarussian Ruble,CURRENCY
+Belize Dollar,CURRENCY
+Canadian Dollar,CURRENCY
+Congolese Franc,CURRENCY
+Swiss Franc,CURRENCY
+Chilean Peso Unidades de fomento,CURRENCY
+Yuan Renminbi,CURRENCY
+Colombian Peso Unidad de Valor Real,CURRENCY
+Costa Rican Colon,CURRENCY
+Cuban Peso Peso Convertible,CURRENCY
+Cape Verde Escudo,CURRENCY
+Czech Koruna,CURRENCY
+Djibouti Franc,CURRENCY
+Danish Krone,CURRENCY
+Dominican Peso,CURRENCY
+Algerian Dinar,CURRENCY
+Kroon,CURRENCY
+Egyptian Pound,CURRENCY
+Nakfa,CURRENCY
+Ethiopian Birr,CURRENCY
+Euro,CURRENCY
+Fiji Dollar,CURRENCY
+Falkland Islands Pound,CURRENCY
+Pound Sterling,CURRENCY
+Lari,CURRENCY
+Cedi,CURRENCY
+Gibraltar Pound,CURRENCY
+Dalasi,CURRENCY
+Guinea Franc,CURRENCY
+Quetzal,CURRENCY
+Guyana Dollar,CURRENCY
+Hong Kong Dollar,CURRENCY
+Lempira,CURRENCY
+Croatian Kuna,CURRENCY
+Gourde US Dollar,CURRENCY
+Forint,CURRENCY
+Rupiah,CURRENCY
+New Israeli Sheqel,CURRENCY
+Indian Rupee,CURRENCY
+Indian Rupee Ngultrum,CURRENCY
+Iraqi Dinar,CURRENCY
+Iranian Rial,CURRENCY
+Iceland Krona,CURRENCY
+Jamaican Dollar,CURRENCY
+Jordanian Dinar,CURRENCY
+Yen,CURRENCY
+Kenyan Shilling,CURRENCY
+Som,CURRENCY
+Riel,CURRENCY
+Comoro Franc,CURRENCY
+North Korean Won,CURRENCY
+Won,CURRENCY
+Kuwaiti Dinar,CURRENCY
+Cayman Islands Dollar,CURRENCY
+Tenge,CURRENCY
+Kip,CURRENCY
+Lebanese Pound,CURRENCY
+Sri Lanka Rupee,CURRENCY
+Liberian Dollar,CURRENCY
+Lithuanian Litas,CURRENCY
+Latvian Lats,CURRENCY
+Libyan Dinar,CURRENCY
+Moroccan Dirham,CURRENCY
+Moldovan Leu,CURRENCY
+Malagasy Ariary,CURRENCY
+Denar,CURRENCY
+Kyat,CURRENCY
+Tugrik,CURRENCY
+Pataca,CURRENCY
+Ouguiya,CURRENCY
+Mauritius Rupee,CURRENCY
+Rufiyaa,CURRENCY
+Kwacha,CURRENCY
+Mexican Peso Mexican Unidad de Inversion (UDI),CURRENCY
+Malaysian Ringgit,CURRENCY
+Metical,CURRENCY
+Naira,CURRENCY
+Cordoba Oro,CURRENCY
+Norwegian Krone,CURRENCY
+Nepalese Rupee,CURRENCY
+New Zealand Dollar,CURRENCY
+Rial Omani,CURRENCY
+Balboa US Dollar,CURRENCY
+Nuevo Sol,CURRENCY
+Kina,CURRENCY
+Philippine Peso,CURRENCY
+Pakistan Rupee,CURRENCY
+Zloty,CURRENCY
+Guarani,CURRENCY
+Qatari Rial,CURRENCY
+New Leu,CURRENCY
+Serbian Dinar,CURRENCY
+Russian Ruble,CURRENCY
+Rwanda Franc,CURRENCY
+Saudi Riyal,CURRENCY
+Solomon Islands Dollar,CURRENCY
+Seychelles Rupee,CURRENCY
+Sudanese Pound,CURRENCY
+Swedish Krona,CURRENCY
+Singapore Dollar,CURRENCY
+Saint Helena Pound,CURRENCY
+Leone,CURRENCY
+Somali Shilling,CURRENCY
+Surinam Dollar,CURRENCY
+Dobra,CURRENCY
+El Salvador Colon US Dollar,CURRENCY
+Syrian Pound,CURRENCY
+Lilangeni,CURRENCY
+Baht,CURRENCY
+Somoni,CURRENCY
+Manat,CURRENCY
+Tunisian Dinar,CURRENCY
+Pa'anga,CURRENCY
+Turkish Lira,CURRENCY
+Trinidad and Tobago Dollar,CURRENCY
+New Taiwan Dollar,CURRENCY
+Tanzanian Shilling,CURRENCY
+Hryvnia,CURRENCY
+Uganda Shilling,CURRENCY
+US Dollar,CURRENCY
+Peso Uruguayo Uruguay Peso en Unidades Indexadas,CURRENCY
+Uzbekistan Sum,CURRENCY
+Bolivar Fuerte,CURRENCY
+Dong,CURRENCY
+Vatu,CURRENCY
+Tala,CURRENCY
+CFA Franc BEAC,CURRENCY
+Silver,CURRENCY
+Gold,CURRENCY
+Bond Markets Units European Composite Unit (EURCO),CURRENCY
+European Monetary Unit (E.M.U.-6),CURRENCY
+European Unit of Account 9(E.U.A.-9),CURRENCY
+European Unit of Account 17(E.U.A.-17),CURRENCY
+East Caribbean Dollar,CURRENCY
+SDR,CURRENCY
+UIC-Franc,CURRENCY
+CFA Franc BCEAO,CURRENCY
+Palladium,CURRENCY
+CFP Franc,CURRENCY
+Platinum,CURRENCY
+Codes specifically reserved for testing purposes,CURRENCY
+Yemeni Rial,CURRENCY
+Rand,CURRENCY
+Rand Loti,CURRENCY
+Rand Namibia Dollar,CURRENCY
+Zambian Kwacha,CURRENCY
+Zimbabwe Dollar,CURRENCY
+$,CURRENCY_SYMBOL
+$b,CURRENCY_SYMBOL
+$U,CURRENCY_SYMBOL
+£,CURRENCY_SYMBOL
+¥,CURRENCY_SYMBOL
+₱,CURRENCY_SYMBOL
+﷼,CURRENCY_SYMBOL
+₭,CURRENCY_SYMBOL
+₦,CURRENCY_SYMBOL
+₩,CURRENCY_SYMBOL
+₮,CURRENCY_SYMBOL
+€,CURRENCY_SYMBOL
+₡,CURRENCY_SYMBOL
+៛,CURRENCY_SYMBOL
+؋,CURRENCY_SYMBOL
+₴,CURRENCY_SYMBOL
+₪,CURRENCY_SYMBOL
+₫,CURRENCY_SYMBOL
+BZ$,CURRENCY_SYMBOL
+C$,CURRENCY_SYMBOL
+CHF,CURRENCY_SYMBOL
+ƒ,CURRENCY_SYMBOL
+ƒ,CURRENCY_SYMBOL
+J$,CURRENCY_SYMBOL
+Kč,CURRENCY_SYMBOL
+TT$,CURRENCY_SYMBOL
+zł,CURRENCY_SYMBOL
+ден,CURRENCY_SYMBOL
+Дин.,CURRENCY_SYMBOL
+лв,CURRENCY_SYMBOL
+ман,CURRENCY_SYMBOL
+Africa,CONTINENT
+Antarctica,CONTINENT
+Asia,CONTINENT
+Europe,CONTINENT
+North America,CONTINENT
+Oceania (or Australia),CONTINENT
+South America,CONTINENT
+Andhra Pradesh,STATES
+Arunachal Pradesh,STATES
+Assam,STATES
+Bihar,STATES
+Chhattisgarh,STATES
+Goa,STATES
+Gujarat,STATES
+Haryana,STATES
+Himachal Pradesh,STATES
+Jammu and Kashmir,STATES
+Jharkhand,STATES
+Karnataka,STATES
+Kerala,STATES
+Madhya Pradesh,STATES
+Maharashtra,STATES
+Manipur,STATES
+Meghalaya,STATES
+Mizoram,STATES
+Nagaland,STATES
+Odisha,STATES
+Punjab,STATES
+Rajasthan,STATES
+Sikkim,STATES
+Tamil Nadu,STATES
+Telangana,STATES
+Tripura,STATES
+Uttar Pradesh,STATES
+Uttarakhand,STATES
+West Bengal,STATES
+Abohar ,CITY
+Achalpur ,CITY
+Adilabad ,CITY
+Adityapur ,CITY
+Adoni ,CITY
+Agartala ,CITY
+Agra ,CITY
+Ahmadabad ,CITY
+Ahmadnagar ,CITY
+Aizawl ,CITY
+Ajmer ,CITY
+Akbarpur ,CITY
+Akola ,CITY
+Alandur ,CITY
+Alappuzha ,CITY
+Aligarh ,CITY
+Allahabad ,CITY
+Alwar ,CITY
+Ambala ,CITY
+Ambala Sadar ,CITY
+Ambarnath ,CITY
+Ambattur ,CITY
+Ambikapur ,CITY
+Ambur ,CITY
+Amravati ,CITY
+Amreli ,CITY
+Amritsar ,CITY
+Amroha ,CITY
+Anand ,CITY
+Anantapur ,CITY
+Anantnag ,CITY
+Arrah ,CITY
+Asansol ,CITY
+Ashoknagar Kalyangarh ,CITY
+Aurangabad ,CITY
+Aurangabad ,CITY
+Avadi ,CITY
+Azamgarh ,CITY
+Badlapur ,CITY
+Bagaha ,CITY
+Bagalkot ,CITY
+Bahadurgarh ,CITY
+Baharampur ,CITY
+Bahraich ,CITY
+Baidyabati ,CITY
+Baleshwar Town ,CITY
+Ballia ,CITY
+Bally ,CITY
+Bally City,CITY
+Balurghat ,CITY
+Banda ,CITY
+Bankura ,CITY
+Bansberia ,CITY
+Banswara ,CITY
+Baran ,CITY
+Baranagar ,CITY
+Barasat ,CITY
+Baraut ,CITY
+Barddhaman ,CITY
+Bareilly ,CITY
+Baripada Town ,CITY
+Barnala ,CITY
+Barrackpur ,CITY
+Barshi ,CITY
+Basirhat ,CITY
+Basti ,CITY
+Batala ,CITY
+Bathinda ,CITY
+Beawar ,CITY
+Begusarai ,CITY
+Belgaum ,CITY
+Bellary ,CITY
+Bengaluru,CITY
+Bettiah ,CITY
+Betul ,CITY
+Bhadrak ,CITY
+Bhadravati ,CITY
+Bhadreswar ,CITY
+Bhagalpur ,CITY
+Bhalswa Jahangir Pur ,CITY
+Bharatpur ,CITY
+Bharuch ,CITY
+Bhatpara ,CITY
+Bhavnagar ,CITY
+Bhilai Nagar ,CITY
+Bhilwara ,CITY
+Bhimavaram ,CITY
+Bhind ,CITY
+Bhiwadi ,CITY
+Bhiwandi ,CITY
+Bhiwani ,CITY
+Bhopal ,CITY
+Bhubaneswar Town ,CITY
+Bhuj ,CITY
+Bhusawal ,CITY
+Bid ,CITY
+Bidar ,CITY
+Bidhan Nagar ,CITY
+Biharsharif ,CITY
+Bijapur ,CITY
+Bikaner ,CITY
+Bilaspur ,CITY
+Bokaro Steel City ,CITY
+Bongaon ,CITY
+Botad ,CITY
+Brahmapur Town ,CITY
+Budaun ,CITY
+Bulandshahr ,CITY
+Bundi ,CITY
+Burari ,CITY
+Burhanpur ,CITY
+Buxar ,CITY
+Champdani ,CITY
+Chandannagar ,CITY
+Chandausi ,CITY
+Chandigarh ,CITY
+Chandrapur ,CITY
+Chapra ,CITY
+Chas ,CITY
+Chennai ,CITY
+Chhattarpur ,CITY
+Chhindwara ,CITY
+Chikmagalur ,CITY
+Chilakaluripet ,CITY
+Chitradurga ,CITY
+Chittaurgarh ,CITY
+Chittoor ,CITY
+Churu ,CITY
+Coimbatore ,CITY
+Cuddalore ,CITY
+Cuttack ,CITY
+Dabgram ,CITY
+Dallo Pura ,CITY
+Damoh ,CITY
+Darbhanga ,CITY
+Darjiling ,CITY
+Datia ,CITY
+Davanagere ,CITY
+Deesa ,CITY
+Dehradun ,CITY
+Dehri ,CITY
+Delhi ,CITY
+Delhi Cantonment ,CITY
+Deoghar ,CITY
+Deoli ,CITY
+Deoria ,CITY
+Dewas ,CITY
+Dhanbad ,CITY
+Dharmavaram ,CITY
+Dhaulpur ,CITY
+Dhule ,CITY
+Dibrugarh ,CITY
+Dimapur ,CITY
+Dinapur Nizamat ,CITY
+Dindigul ,CITY
+Dum Dum ,CITY
+Durg ,CITY
+Durgapur ,CITY
+Eluru ,CITY
+English Bazar ,CITY
+Erode ,CITY
+Etah ,CITY
+Etawah ,CITY
+Faizabad ,CITY
+Faridabad ,CITY
+Farrukhabad-cum-Fatehgarh ,CITY
+Fatehpur ,CITY
+Firozabad ,CITY
+Firozpur ,CITY
+Gadag-Betigeri ,CITY
+Gandhidham ,CITY
+Gandhinagar ,CITY
+Ganganagar ,CITY
+Gangapur City ,CITY
+Gangawati ,CITY
+Gaya ,CITY
+Ghazipur ,CITY
+Giridih ,CITY
+Godhra ,CITY
+Gokal Pur ,CITY
+Gonda ,CITY
+Gondal ,CITY
+Gondiya ,CITY
+Gorakhpur ,CITY
+Greater Hyderabad ,CITY
+Greater Mumbai ,CITY
+Greater Noida ,CITY
+Gudivada ,CITY
+Gulbarga ,CITY
+Guna ,CITY
+Guntakal ,CITY
+Guntur ,CITY
+Gurgaon ,CITY
+Guwahati ,CITY
+Gwalior ,CITY
+Habra ,CITY
+Hajipur ,CITY
+Haldia ,CITY
+Haldwani-cum-Kathgodam ,CITY
+Halisahar ,CITY
+Hanumangarh ,CITY
+Haora ,CITY
+Hapur ,CITY
+Hardoi ,CITY
+Hardwar ,CITY
+Hassan ,CITY
+Hastsal ,CITY
+Hathras ,CITY
+Hazaribag ,CITY
+Hindaun ,CITY
+Hindupur ,CITY
+Hinganghat ,CITY
+Hisar ,CITY
+Hoshangabad ,CITY
+Hoshiarpur ,CITY
+Hospet ,CITY
+Hosur ,CITY
+Hubli-Dharwad ,CITY
+Hugli-Chinsurah ,CITY
+Ichalkaranji ,CITY
+Imphal ,CITY
+Indore ,CITY
+Jabalpur ,CITY
+Jagadhri ,CITY
+Jagdalpur ,CITY
+Jaipur ,CITY
+Jalandhar ,CITY
+Jalgaon ,CITY
+Jalna ,CITY
+Jalpaiguri ,CITY
+Jamalpur ,CITY
+Jammu ,CITY
+Jamnagar ,CITY
+Jamshedpur ,CITY
+Jamuria ,CITY
+Jaunpur ,CITY
+Jehanabad ,CITY
+Jetpur Navagadh ,CITY
+Jhansi ,CITY
+Jhunjhunun ,CITY
+Jind ,CITY
+Jodhpur ,CITY
+Junagadh ,CITY
+Kadapa ,CITY
+Kaithal ,CITY
+Kakinada ,CITY
+Kalol ,CITY
+Kalyani ,CITY
+Kamarhati ,CITY
+Kancheepuram ,CITY
+Kanchrapara ,CITY
+Kanpur ,CITY
+Kanpur City,CITY
+Karaikkudi ,CITY
+Karawal Nagar ,CITY
+Karimnagar ,CITY
+Karnal ,CITY
+Kasganj ,CITY
+Kashipur ,CITY
+Katihar ,CITY
+Khammam ,CITY
+Khandwa ,CITY
+Khanna ,CITY
+Kharagpur ,CITY
+Khardaha ,CITY
+Khargone ,CITY
+Khora ,CITY
+Khurja ,CITY
+Kirari Suleman Nagar ,CITY
+Kishanganj ,CITY
+Kishangarh ,CITY
+Kochi ,CITY
+Kolar ,CITY
+Kolhapur ,CITY
+Kolkata ,CITY
+Kollam ,CITY
+Korba ,CITY
+Kota ,CITY
+Kozhikode ,CITY
+Krishnanagar ,CITY
+Kulti ,CITY
+Kumbakonam ,CITY
+Kurichi ,CITY
+Kurnool ,CITY
+Lakhimpur ,CITY
+Lalitpur ,CITY
+Latur ,CITY
+Loni ,CITY
+Lucknow ,CITY
+Ludhiana ,CITY
+Machilipatnam ,CITY
+Madanapalle ,CITY
+Madavaram ,CITY
+Madhyamgram ,CITY
+Madurai ,CITY
+Mahbubnagar ,CITY
+Mahesana ,CITY
+Maheshtala ,CITY
+Mainpuri ,CITY
+Malegaon ,CITY
+Malerkotla ,CITY
+Mandoli ,CITY
+Mandsaur ,CITY
+Mandya ,CITY
+Mangalore ,CITY
+Mango ,CITY
+Mathura ,CITY
+Maunath Bhanjan ,CITY
+Medinipur ,CITY
+Meerut ,CITY
+Mira Bhayander ,CITY
+Miryalaguda ,CITY
+Mirzapur-cum-Vindhyachal ,CITY
+Modinagar ,CITY
+Moga ,CITY
+Moradabad ,CITY
+Morena ,CITY
+Morvi ,CITY
+Motihari ,CITY
+Mughalsarai ,CITY
+Muktsar ,CITY
+Munger ,CITY
+Murwara ,CITY
+Mustafabad ,CITY
+Muzaffarnagar ,CITY
+Muzaffarpur ,CITY
+Mysore ,CITY
+Nabadwip ,CITY
+Nadiad ,CITY
+Nagaon ,CITY
+Nagapattinam ,CITY
+Nagaur ,CITY
+Nagda ,CITY
+Nagercoil ,CITY
+Nagpur ,CITY
+Naihati ,CITY
+Nalgonda ,CITY
+Nanded Waghala ,CITY
+Nandurbar ,CITY
+Nandyal ,CITY
+Nangloi Jat ,CITY
+Narasaraopet ,CITY
+Nashik ,CITY
+Navi Mumbai ,CITY
+Navi Mumbai Panvel Raigarh ,CITY
+Navsari ,CITY
+Neemuch ,CITY
+Nellore ,CITY
+New Delhi ,CITY
+Neyveli ,CITY
+Nizamabad ,CITY
+Noida ,CITY
+North Barrackpur ,CITY
+North Dum Dum ,CITY
+Ongole ,CITY
+Orai ,CITY
+Osmanabad ,CITY
+Ozhukarai ,CITY
+Palakkad ,CITY
+Palanpur ,CITY
+Pali ,CITY
+Pallavaram ,CITY
+Palwal ,CITY
+Panchkula ,CITY
+Panihati ,CITY
+Panipat ,CITY
+Panvel ,CITY
+Parbhani ,CITY
+Patan ,CITY
+Pathankot ,CITY
+Patiala ,CITY
+Patna ,CITY
+Pilibhit ,CITY
+Pimpri Chinchwad ,CITY
+Pithampur ,CITY
+Porbandar ,CITY
+Port Blair ,CITY
+Proddatur ,CITY
+Puducherry ,CITY
+Pudukkottai ,CITY
+Pune ,CITY
+Puri ,CITY
+Purnia ,CITY
+Puruliya ,CITY
+Rae Bareli ,CITY
+Raichur ,CITY
+Raiganj ,CITY
+Raigarh ,CITY
+Raipur ,CITY
+Rajahmundry ,CITY
+Rajapalayam ,CITY
+Rajarhat Gopalpur ,CITY
+Rajkot ,CITY
+Rajnandgaon ,CITY
+Rajpur Sonarpur ,CITY
+Ramagundam ,CITY
+Rampur ,CITY
+Ranchi ,CITY
+Ranibennur ,CITY
+Raniganj ,CITY
+Ratlam ,CITY
+Raurkela Industrial Township ,CITY
+Raurkela Town ,CITY
+Rewa ,CITY
+Rewari ,CITY
+Rishra ,CITY
+Robertson Pet ,CITY
+Rohtak ,CITY
+Roorkee ,CITY
+Rudrapur ,CITY
+S.A.S. Nagar ,CITY
+Sagar ,CITY
+Saharanpur ,CITY
+Saharsa ,CITY
+Salem ,CITY
+Sambalpur ,CITY
+Sambhal ,CITY
+Sangli Miraj Kupwad ,CITY
+Santipur ,CITY
+Sasaram ,CITY
+Satara ,CITY
+Satna ,CITY
+Sawai Madhopur ,CITY
+Secunderabad ,CITY
+Sehore ,CITY
+Seoni ,CITY
+Serampore ,CITY
+Shahjahanpur ,CITY
+Shamli ,CITY
+Shikohabad ,CITY
+Shillong ,CITY
+Shimla ,CITY
+Shimoga ,CITY
+Shivpuri ,CITY
+Sikar ,CITY
+Silchar ,CITY
+Siliguri ,CITY
+Singrauli ,CITY
+Sirsa ,CITY
+Sitapur ,CITY
+Siwan ,CITY
+Solapur ,CITY
+Sonipat ,CITY
+South Dum Dum ,CITY
+Srikakulam ,CITY
+Srinagar ,CITY
+Sujangarh ,CITY
+Sultan Pur Majra ,CITY
+Sultanpur ,CITY
+Surat ,CITY
+Surendranagar Dudhrej ,CITY
+Suryapet ,CITY
+Tadepalligudem ,CITY
+Tadpatri ,CITY
+Tambaram ,CITY
+Tenali ,CITY
+Thane ,CITY
+Thanesar ,CITY
+Thanjavur ,CITY
+Thiruvananthapuram ,CITY
+Thoothukkudi ,CITY
+Thrissur ,CITY
+Tiruchirappalli ,CITY
+Tirunelveli ,CITY
+Tirupati ,CITY
+Tiruppur ,CITY
+Tiruvannamalai ,CITY
+Tiruvottiyur ,CITY
+Titagarh ,CITY
+Tonk ,CITY
+Tumkur ,CITY
+Udaipur ,CITY
+Udgir ,CITY
+Udupi ,CITY
+Ujjain ,CITY
+Ulhasnagar ,CITY
+Uluberia ,CITY
+Unnao ,CITY
+Uttarpara Kotrung ,CITY
+Vadodara ,CITY
+Valsad ,CITY
+Varanasi ,CITY
+Vasai Virar City ,CITY
+Vellore ,CITY
+Veraval ,CITY
+Vidisha ,CITY
+Vijayawada ,CITY
+Visakhapatnam,CITY
+Vizianagaram ,CITY
+Warangal ,CITY
+Wardha ,CITY
+Yamunanagar ,CITY
+Yavatmal ,CITY
+Alabama,STATES
+Alaska,STATES
+Arizona,STATES
+Arkansas,STATES
+California,STATES
+Colorado,STATES
+Connecticut,STATES
+Delaware,STATES
+District of Columbia,STATES
+Florida,STATES
+Georgia,STATES
+Hawaii,STATES
+Idaho,STATES
+Illinois,STATES
+Indiana,STATES
+Iowa,STATES
+Kansas,STATES
+Kentucky,STATES
+Louisiana,STATES
+Maine,STATES
+Montana,STATES
+Nebraska,STATES
+Nevada,STATES
+New Hampshire,STATES
+New Jersey,STATES
+New Mexico,STATES
+New York,STATES
+North Carolina,STATES
+North Dakota,STATES
+Ohio,STATES
+Oklahoma,STATES
+Oregon,STATES
+Maryland,STATES
+Massachusetts,STATES
+Michigan,STATES
+Minnesota,STATES
+Mississippi,STATES
+Missouri,STATES
+Pennsylvania,STATES
+Rhode Island,STATES
+South Carolina,STATES
+South Dakota,STATES
+Tennessee,STATES
+Texas,STATES
+Utah,STATES
+Vermont,STATES
+Virginia,STATES
+Washington,STATES
+West Virginia,STATES
+Wisconsin,STATES
+Wyoming,STATES
+Marysville,CITY
+Perris,CITY
+Cleveland,CITY
+Worcester,CITY
+Columbia,CITY
+Waterbury,CITY
+Eagan,CITY
+Southfield,CITY
+Lafayette,CITY
+Boise City,CITY
+Elkhart,CITY
+Buena Park,CITY
+Marietta,CITY
+Parker,CITY
+West Palm Beach,CITY
+Salem,CITY
+Aurora,CITY
+Leesburg,CITY
+Doral,CITY
+Westminster,CITY
+Lubbock,CITY
+Overland Park,CITY
+Jackson,CITY
+Gastonia,CITY
+Daytona Beach,CITY
+Kansas City,CITY
+Rancho Palos Verdes,CITY
+Burnsville,CITY
+Rowlett,CITY
+Roswell,CITY
+Montgomery,CITY
+Logan,CITY
+Woburn,CITY
+Allentown,CITY
+Mount Pleasant,CITY
+Columbus,CITY
+Buffalo,CITY
+New Berlin,CITY
+North Richland Hills,CITY
+Lima,CITY
+Sacramento,CITY
+Fort Smith,CITY
+East Providence,CITY
+Urbandale,CITY
+Mount Vernon,CITY
+Lakewood,CITY
+Henderson,CITY
+Covina,CITY
+Stamford,CITY
+Bloomington,CITY
+Kingsport,CITY
+Spokane,CITY
+Kennewick,CITY
+Philadelphia,CITY
+Bellingham,CITY
+Visalia,CITY
+La Crosse,CITY
+Council Bluffs,CITY
+North Lauderdale,CITY
+Dallas,CITY
+Antioch,CITY
+Sterling Heights,CITY
+Deerfield Beach,CITY
+Fishers,CITY
+Cheyenne,CITY
+Murrieta,CITY
+Lenexa,CITY
+Noblesville,CITY
+Southaven,CITY
+Chino,CITY
+Gaithersburg,CITY
+Fountain Valley,CITY
+Frederick,CITY
+Greenville,CITY
+DeKalb,CITY
+West Allis,CITY
+Thornton,CITY
+West Des Moines,CITY
+Fall River,CITY
+Tulare,CITY
+Chula Vista,CITY
+Coral Springs,CITY
+Concord,CITY
+Smyrna,CITY
+Apopka,CITY
+Grand Forks,CITY
+Lancaster,CITY
+Naperville,CITY
+Hollywood,CITY
+Rogers,CITY
+New Orleans,CITY
+Lakewood,CITY
+Oak Lawn,CITY
+Caldwell,CITY
+Portland,CITY
+Concord,CITY
+Burien,CITY
+St. Charles,CITY
+Waukesha,CITY
+Flagstaff,CITY
+Puyallup,CITY
+Schenectady,CITY
+Denver,CITY
+Springfield,CITY
+Campbell,CITY
+Moreno Valley,CITY
+Kettering,CITY
+Lincoln Park,CITY
+Lake Havasu City,CITY
+North Little Rock,CITY
+Reno,CITY
+Littleton,CITY
+Prescott,CITY
+Dublin,CITY
+Texarkana,CITY
+Portland,CITY
+Brooklyn Park,CITY
+West Haven,CITY
+El Centro,CITY
+The Colony,CITY
+Flint,CITY
+Pittsburg,CITY
+Buckeye,CITY
+Brea,CITY
+Indio,CITY
+Scottsdale,CITY
+Columbus,CITY
+Lancaster,CITY
+Lincoln,CITY
+Trenton,CITY
+Boston,CITY
+Glendora,CITY
+Rochester,CITY
+Florissant,CITY
+Annapolis,CITY
+Chapel Hill,CITY
+Lawrence,CITY
+Calexico,CITY
+Calumet City,CITY
+Missoula,CITY
+Clovis,CITY
+Pearland,CITY
+Gilbert,CITY
+Wausau,CITY
+Raleigh,CITY
+Orange,CITY
+Walnut Creek,CITY
+Bremerton,CITY
+Porterville,CITY
+Marana,CITY
+Tallahassee,CITY
+Conroe,CITY
+Blacksburg,CITY
+San Antonio,CITY
+Hartford,CITY
+Waterloo,CITY
+Binghamton,CITY
+Meridian,CITY
+Fond du Lac,CITY
+Baytown,CITY
+Cary,CITY
+Weymouth Town,CITY
+Tulsa,CITY
+Mission,CITY
+Cuyahoga Falls,CITY
+Malden,CITY
+Allen,CITY
+Tucson,CITY
+Franklin,CITY
+Shakopee,CITY
+Jacksonville,CITY
+Atlantic City,CITY
+Erie,CITY
+Merced,CITY
+Abilene,CITY
+Yorba Linda,CITY
+Greenville,CITY
+Huntersville,CITY
+St. Clair Shores,CITY
+Harrisburg,CITY
+San Buenaventura (Ventura),CITY
+Fremont,CITY
+Pueblo,CITY
+Chelsea,CITY
+Belleville,CITY
+Minneapolis,CITY
+Bartlett,CITY
+Wichita Falls,CITY
+Missouri City,CITY
+St. Louis,CITY
+Pharr,CITY
+Albuquerque,CITY
+Athens-Clarke County,CITY
+South Jordan,CITY
+North Las Vegas,CITY
+Pomona,CITY
+Eastvale,CITY
+Grove City,CITY
+Lawrence,CITY
+Midland,CITY
+Oklahoma City,CITY
+Oro Valley,CITY
+Mesa,CITY
+Norwalk,CITY
+Kentwood,CITY
+Brookfield,CITY
+Rockwall,CITY
+Mishawaka,CITY
+Tustin,CITY
+St. Cloud,CITY
+Passaic,CITY
+Escondido,CITY
+San Bruno,CITY
+Berkeley,CITY
+San Clemente,CITY
+Lawton,CITY
+Eau Claire,CITY
+Maricopa,CITY
+DeSoto,CITY
+Fort Wayne,CITY
+Shoreline,CITY
+Medford,CITY
+La Habra,CITY
+Albany,CITY
+Daly City,CITY
+Taylor,CITY
+Lynchburg,CITY
+Bowie,CITY
+Danbury,CITY
+Charlottesville,CITY
+Coral Gables,CITY
+Coeur d'Alene,CITY
+El Monte,CITY
+Crystal Lake,CITY
+Danville,CITY
+Goodyear,CITY
+Paterson,CITY
+Salem,CITY
+Kissimmee,CITY
+Saginaw,CITY
+Brownsville,CITY
+Flower Mound,CITY
+Grapevine,CITY
+Edina,CITY
+Detroit,CITY
+Fairfield,CITY
+Mansfield,CITY
+Rochester,CITY
+Birmingham,CITY
+Austin,CITY
+Santa Barbara,CITY
+Addison,CITY
+Rio Rancho,CITY
+Normal,CITY
+Romeoville,CITY
+Coon Rapids,CITY
+San Mateo,CITY
+Orlando,CITY
+Casper,CITY
+Bedford,CITY
+Wilmington,CITY
+Pinellas Park,CITY
+North Miami Beach,CITY
+Kansas City,CITY
+Fitchburg,CITY
+Wheeling,CITY
+Newton,CITY
+North Miami,CITY
+Norwich,CITY
+Newark,CITY
+Alexandria,CITY
+Blaine,CITY
+Harlingen,CITY
+Lompoc,CITY
+Denton,CITY
+Galveston,CITY
+Greenwood,CITY
+Salinas,CITY
+Miami Gardens,CITY
+Huntington,CITY
+Laredo,CITY
+Melbourne,CITY
+Haltom City,CITY
+Palm Bay,CITY
+Wilson,CITY
+Bountiful,CITY
+Ceres,CITY
+Parma,CITY
+Rapid City,CITY
+Bell Gardens,CITY
+Commerce City,CITY
+Springfield,CITY
+Fort Collins,CITY
+San Leandro,CITY
+Vista,CITY
+Yonkers,CITY
+Cincinnati,CITY
+Hagerstown,CITY
+Sanford,CITY
+Union City,CITY
+Toledo,CITY
+Sierra Vista,CITY
+Newport News,CITY
+Hammond,CITY
+Buffalo Grove,CITY
+Sugar Land,CITY
+Huntsville,CITY
+Lodi,CITY
+Edmonds,CITY
+Duncanville,CITY
+Rocky Mount,CITY
+Pontiac,CITY
+National City,CITY
+Hayward,CITY
+Niagara Falls,CITY
+Sparks,CITY
+Hanford,CITY
+Cypress,CITY
+Youngstown,CITY
+Madison,CITY
+Redlands,CITY
+Cape Girardeau,CITY
+Nampa,CITY
+Washington,CITY
+Wheaton,CITY
+Lancaster,CITY
+Rialto,CITY
+Fargo,CITY
+Peoria,CITY
+Omaha,CITY
+Rancho Santa Margarita,CITY
+Manhattan,CITY
+Palm Springs,CITY
+San Diego,CITY
+Santa Rosa,CITY
+Lowell,CITY
+Broken Arrow,CITY
+Kent,CITY
+Nashville,CITY
+Hackensack,CITY
+Broomfield,CITY
+Durham,CITY
+Wichita,CITY
+Cathedral City,CITY
+Lakeville,CITY
+Elmhurst,CITY
+Weslaco,CITY
+Greenfield,CITY
+Sunnyvale,CITY
+Santa Cruz,CITY
+Kenosha,CITY
+State College,CITY
+Mansfield,CITY
+Quincy,CITY
+Pompano Beach,CITY
+San Angelo,CITY
+Bloomington,CITY
+Tracy,CITY
+Spartanburg,CITY
+Nashua,CITY
+Macon,CITY
+Hempstead,CITY
+Camden,CITY
+Palm Desert,CITY
+Streamwood,CITY
+Chesapeake,CITY
+Dublin,CITY
+Camarillo,CITY
+Muskegon,CITY
+Elizabeth,CITY
+Anchorage,CITY
+Minot,CITY
+Davie,CITY
+McAllen,CITY
+McKinney,CITY
+Killeen,CITY
+Findlay,CITY
+Oakland,CITY
+Mountain View,CITY
+Lake Elsinore,CITY
+Amarillo,CITY
+Provo,CITY
+Atlanta,CITY
+Monterey Park,CITY
+Strongsville,CITY
+Madera,CITY
+Decatur,CITY
+Woonsocket,CITY
+Mobile,CITY
+Vallejo,CITY
+Arcadia,CITY
+Collierville,CITY
+Jefferson City,CITY
+Longview,CITY
+Chandler,CITY
+Arvada,CITY
+Alhambra,CITY
+Kokomo,CITY
+Oakland Park,CITY
+Indianapolis,CITY
+Boynton Beach,CITY
+Apache Junction,CITY
+Mount Prospect,CITY
+Cranston,CITY
+Lafayette,CITY
+Olathe,CITY
+Johns Creek,CITY
+Greensboro,CITY
+Kalamazoo,CITY
+Tigard,CITY
+Jacksonville,CITY
+Citrus Heights,CITY
+Tuscaloosa,CITY
+Ankeny,CITY
+Hawthorne,CITY
+Hoover,CITY
+Delray Beach,CITY
+Wellington,CITY
+Bullhead City,CITY
+Weston,CITY
+Troy,CITY
+New Rochelle,CITY
+Stockton,CITY
+Royal Oak,CITY
+Titusville,CITY
+Laguna Niguel,CITY
+Spokane Valley,CITY
+Costa Mesa,CITY
+Grand Prairie,CITY
+Portsmouth,CITY
+Lacey,CITY
+Apex,CITY
+Sioux City,CITY
+Encinitas,CITY
+Spanish Fork,CITY
+Huntington Park,CITY
+Eden Prairie,CITY
+Peoria,CITY
+Tempe,CITY
+Wilmington,CITY
+Taylorsville,CITY
+Westland,CITY
+Mesquite,CITY
+Burlington,CITY
+Garland,CITY
+Richmond,CITY
+Bismarck,CITY
+Carson City,CITY
+Muskogee,CITY
+Augusta-Richmond County,CITY
+Fayetteville,CITY
+Albany,CITY
+Sayreville,CITY
+Newark,CITY
+Diamond Bar,CITY
+Decatur,CITY
+Chattanooga,CITY
+Jeffersonville,CITY
+Bartlett,CITY
+Baldwin Park,CITY
+Miami Beach,CITY
+Jackson,CITY
+Port Arthur,CITY
+San Luis Obispo,CITY
+Burleson,CITY
+Newport Beach,CITY
+Riverton,CITY
+Yakima,CITY
+Dayton,CITY
+Gulfport,CITY
+Long Beach,CITY
+Chico,CITY
+Hattiesburg,CITY
+Eugene,CITY
+Colton,CITY
+Montebello,CITY
+Pleasanton,CITY
+Everett,CITY
+Hutchinson,CITY
+Fairfield,CITY
+Avondale,CITY
+Euclid,CITY
+Battle Creek,CITY
+Bloomington,CITY
+Rock Island,CITY
+Beaverton,CITY
+Kenner,CITY
+Clovis,CITY
+Troy,CITY
+Milpitas,CITY
+Des Plaines,CITY
+Placentia,CITY
+Taunton,CITY
+Montclair,CITY
+Johnson City,CITY
+Savannah,CITY
+Warren,CITY
+Vancouver,CITY
+Sunrise,CITY
+Muncie,CITY
+Lehi,CITY
+San Francisco,CITY
+Fontana,CITY
+Frisco,CITY
+Chino Hills,CITY
+Poway,CITY
+Huber Heights,CITY
+New Brunswick,CITY
+Norfolk,CITY
+Hillsboro,CITY
+San Jacinto,CITY
+Pensacola,CITY
+Hamilton,CITY
+Florence,CITY
+San Bernardino,CITY
+Peachtree Corners,CITY
+Victorville,CITY
+Gary,CITY
+Casa Grande,CITY
+Morgan Hill,CITY
+Dubuque,CITY
+Syracuse,CITY
+Clarksville,CITY
+Lakeland,CITY
+Valley Stream,CITY
+Dover,CITY
+Moorhead,CITY
+Culver City,CITY
+Palatine,CITY
+Seattle,CITY
+Covington,CITY
+Elk Grove,CITY
+Shreveport,CITY
+Ogden,CITY
+Harrisonburg,CITY
+Inglewood,CITY
+Pasadena,CITY
+Lawrence,CITY
+Lake Oswego,CITY
+Petaluma,CITY
+Springfield,CITY
+Napa,CITY
+Aurora,CITY
+Duluth,CITY
+Roanoke,CITY
+Bend,CITY
+Apple Valley,CITY
+Waltham,CITY
+Fort Myers,CITY
+Tampa,CITY
+Upland,CITY
+Danville,CITY
+Beloit,CITY
+Plantation,CITY
+Colorado Springs,CITY
+Modesto,CITY
+Grand Rapids,CITY
+Oak Park,CITY
+Sarasota,CITY
+Jurupa Valley,CITY
+Bellflower,CITY
+Boulder,CITY
+Santa Fe,CITY
+Coachella,CITY
+Marlborough,CITY
+Riverside,CITY
+Palmdale,CITY
+Novato,CITY
+Layton,CITY
+Bolingbrook,CITY
+Mission Viejo,CITY
+Glenview,CITY
+Lincoln,CITY
+Folsom,CITY
+Prescott Valley,CITY
+Las Cruces,CITY
+Bozeman,CITY
+Schaumburg,CITY
+Warren,CITY
+St. Peters,CITY
+Ames,CITY
+Surprise,CITY
+Richardson,CITY
+Midland,CITY
+San Marcos,CITY
+Wilkes-Barre,CITY
+Appleton,CITY
+Shawnee,CITY
+Mentor,CITY
+Livermore,CITY
+Charlotte,CITY
+Owensboro,CITY
+Jupiter,CITY
+Rohnert Park,CITY
+Chicago,CITY
+Billings,CITY
+Wauwatosa,CITY
+Lombard,CITY
+New Haven,CITY
+York,CITY
+Knoxville,CITY
+Elyria,CITY
+Barnstable Town,CITY
+Murray,CITY
+Alameda,CITY
+Manteca,CITY
+Maplewood,CITY
+Medford,CITY
+Murfreesboro,CITY
+Yuba City,CITY
+Shelton,CITY
+Cedar Falls,CITY
+Germantown,CITY
+Scranton,CITY
+Auburn,CITY
+Manassas,CITY
+Vacaville,CITY
+Santa Monica,CITY
+Suffolk,CITY
+Rochester Hills,CITY
+La Quinta,CITY
+Charleston,CITY
+Delano,CITY
+St. Cloud,CITY
+Charleston,CITY
+Kannapolis,CITY
+Corona,CITY
+Rocklin,CITY
+Lee's Summit,CITY
+Palm Coast,CITY
+Sandy,CITY
+Bentonville,CITY
+Santa Clarita,CITY
+Altamonte Springs,CITY
+New Braunfels,CITY
+Memphis,CITY
+Irving,CITY
+Alexandria,CITY
+Hesperia,CITY
+Holyoke,CITY
+Dunwoody,CITY
+Skokie,CITY
+Kearny,CITY
+Bethlehem,CITY
+St. Joseph,CITY
+Redondo Beach,CITY
+Houston,CITY
+Temecula,CITY
+Ann Arbor,CITY
+Beaumont,CITY
+East Lansing,CITY
+Santee,CITY
+Tamarac,CITY
+Bellevue,CITY
+Pembroke Pines,CITY
+Springdale,CITY
+Oxnard,CITY
+Odessa,CITY
+Stillwater,CITY
+Brockton,CITY
+Bayonne,CITY
+Paramount,CITY
+Moline,CITY
+Meridian,CITY
+Cleveland,CITY
+Jersey City,CITY
+St. Paul,CITY
+Deltona,CITY
+Freeport,CITY
+Iowa City,CITY
+Anaheim,CITY
+Apple Valley,CITY
+Great Falls,CITY
+West Valley City,CITY
+Hampton,CITY
+Georgetown,CITY
+Orem,CITY
+Monrovia,CITY
+Keller,CITY
+Goose Creek,CITY
+Little Rock,CITY
+Santa Ana,CITY
+White Plains,CITY
+Idaho Falls,CITY
+Bellevue,CITY
+Roseville,CITY
+Perth Amboy,CITY
+Peabody,CITY
+Grand Island,CITY
+Columbia,CITY
+Racine,CITY
+Carmel,CITY
+Portage,CITY
+Middletown,CITY
+Woodland,CITY
+Revere,CITY
+Euless,CITY
+Arlington Heights,CITY
+Hemet,CITY
+High Point,CITY
+Newark,CITY
+Midwest City,CITY
+San Marcos,CITY
+Port Orange,CITY
+Lakewood,CITY
+Westerville,CITY
+Rockford,CITY
+El Cajon,CITY
+St. Petersburg,CITY
+Downers Grove,CITY
+Milford,CITY
+Albany,CITY
+Las Vegas,CITY
+Pasadena,CITY
+Port St. Lucie,CITY
+Cedar Rapids,CITY
+Ormond Beach,CITY
+Quincy,CITY
+Miramar,CITY
+El Paso,CITY
+Topeka,CITY
+Rosemead,CITY
+Keizer,CITY
+Minnetonka,CITY
+Akron,CITY
+Edinburg,CITY
+Rancho Cucamonga,CITY
+North Charleston,CITY
+Louisville,CITY
+Watsonville,CITY
+Coconut Creek,CITY
+Bradenton,CITY
+Carlsbad,CITY
+Texas City,CITY
+Redding,CITY
+Wyoming,CITY
+Lorain,CITY
+Roy,CITY
+Fort Lauderdale,CITY
+Warner Robins,CITY
+Clearwater,CITY
+Cutler Bay,CITY
+Florence,CITY
+Terre Haute,CITY
+Temple,CITY
+Beavercreek,CITY
+Sioux Falls,CITY
+Columbus,CITY
+Margate,CITY
+Leominster,CITY
+Warwick,CITY
+Bakersfield,CITY
+Miami,CITY
+Lake Charles,CITY
+Richland,CITY
+Hickory,CITY
+South San Francisco,CITY
+Plymouth,CITY
+South Bend,CITY
+Edmond,CITY
+Des Moines,CITY
+Bonita Springs,CITY
+Draper,CITY
+Whittier,CITY
+Livonia,CITY
+Milwaukee,CITY
+Auburn,CITY
+Sumter,CITY
+Beverly,CITY
+Renton,CITY
+Centennial,CITY
+Richmond,CITY
+Anderson,CITY
+Beaumont,CITY
+Pflugerville,CITY
+Hoboken,CITY
+Lexington-Fayette,CITY
+Norwalk,CITY
+Yuma,CITY
+Highland,CITY
+Carol Stream,CITY
+Joliet,CITY
+Rock Hill,CITY
+Rancho Cordova,CITY
+Dearborn Heights,CITY
+Honolulu,CITY
+Victoria,CITY
+Attleboro,CITY
+Wylie,CITY
+Carrollton,CITY
+Plainfield,CITY
+Hoffman Estates,CITY
+Methuen,CITY
+North Port,CITY
+Rockville,CITY
+Burbank,CITY
+Fullerton,CITY
+Oshkosh,CITY
+Huntsville,CITY
+Farmington Hills,CITY
+Pico Rivera,CITY
+Cerritos,CITY
+La Puente,CITY
+Grand Junction,CITY
+Enid,CITY
+San Jose,CITY
+Round Rock,CITY
+Maple Grove,CITY
+Norman,CITY
+Homestead,CITY
+Friendswood,CITY
+Irvine,CITY
+Pocatello,CITY
+Pacifica,CITY
+Sheboygan,CITY
+Bossier City,CITY
+Cedar Park,CITY
+Sandy Springs,CITY
+Champaign,CITY
+Clifton,CITY
+Moore,CITY
+Blue Springs,CITY
+Lancaster,CITY
+Bryan,CITY
+Hurst,CITY
+Cape Coral,CITY
+Cupertino,CITY
+Pittsfield,CITY
+Gilroy,CITY
+Manchester,CITY
+Virginia Beach,CITY
+Salina,CITY
+Somerville,CITY
+Largo,CITY
+Fresno,CITY
+Phenix City,CITY
+Berwyn,CITY
+Palm Beach Gardens,CITY
+Pawtucket,CITY
+San Gabriel,CITY
+Winston-Salem,CITY
+Alpharetta,CITY
+O'Fallon,CITY
+Redwood City,CITY
+Union City,CITY
+Hallandale Beach,CITY
+Mankato,CITY
+Aliso Viejo,CITY
+Menifee,CITY
+Loveland,CITY
+Carpentersville,CITY
+Providence,CITY
+Hialeah,CITY
+San Ramon,CITY
+Ontario,CITY
+Kirkland,CITY
+St. George,CITY
+Hilton Head Island,CITY
+Glendale,CITY
+Meriden,CITY
+Gardena,CITY
+Westfield,CITY
+Elgin,CITY
+Plano,CITY
+Longmont,CITY
+Coppell,CITY
+Lakewood,CITY
+Jonesboro,CITY
+College Station,CITY
+Dearborn,CITY
+Utica,CITY
+Monroe,CITY
+Baltimore,CITY
+Springfield,CITY
+Pine Bluff,CITY
+Plainfield,CITY
+Lynn,CITY
+Woodbury,CITY
+Gainesville,CITY
+West Sacramento,CITY
+Sammamish,CITY
+Aventura,CITY
+Fayetteville,CITY
+San Rafael,CITY
+Conway,CITY
+Tacoma,CITY
+Middletown,CITY
+Burlington,CITY
+Twin Falls,CITY
+Sherman,CITY
+New York,CITY
+Simi Valley,CITY
+West Covina,CITY
+Castle Rock,CITY
+Valdosta,CITY
+Fort Worth,CITY
+Carson,CITY
+Evansville,CITY
+Santa Maria,CITY
+Brentwood,CITY
+La Mesa,CITY
+Westminster,CITY
+Reading,CITY
+Turlock,CITY
+Greeley,CITY
+Tyler,CITY
+Winter Garden,CITY
+Waco,CITY
+Martinez,CITY
+Thousand Oaks,CITY
+Azusa,CITY
+Bridgeport,CITY
+St. Louis Park,CITY
+Chesterfield,CITY
+Greenacres,CITY
+Pasco,CITY
+Torrance,CITY
+Madison,CITY
+Janesville,CITY
+Waukegan,CITY
+Bowling Green,CITY
+Arlington,CITY
+Lewisville,CITY
+Farmington,CITY
+Oakley,CITY
+Palo Alto,CITY
+Springfield,CITY
+New Bedford,CITY
+Redmond,CITY
+Brentwood,CITY
+Davis,CITY
+La Mirada,CITY
+Smyrna,CITY
+Altoona,CITY
+Dothan,CITY
+East Orange,CITY
+Tinley Park,CITY
+Biloxi,CITY
+Urbana,CITY
+Garden Grove,CITY
+Lynwood,CITY
+Northglenn,CITY
+Canton,CITY
+Brookhaven,CITY
+Baton Rouge,CITY
+Bristol,CITY
+Independence,CITY
+Lansing,CITY
+Orland Park,CITY
+Vineland,CITY
+Green Bay,CITY
+Evanston,CITY
+Ocoee,CITY
+Los Angeles,CITY
+Federal Way,CITY
+West Jordan,CITY
+Yucaipa,CITY
+Pittsburgh,CITY
+Downey,CITY
+Cicero,CITY
+South Gate,CITY
+Panama City,CITY
+Joplin,CITY
+League City,CITY
+Salt Lake City,CITY
+Fort Pierce,CITY
+Phoenix,CITY
+Corvallis,CITY
+Cedar Hill,CITY
+Chicopee,CITY
+Ocala,CITY
+Roswell,CITY
+Park Ridge,CITY
+Concord,CITY
+Olympia,CITY
+Huntington Beach,CITY
+Corpus Christi,CITY
+Haverhill,CITY
+Hanover Park,CITY
+Cambridge,CITY
+Glendale,CITY
+Stanton,CITY
+Summerville,CITY
+Davenport,CITY
+Boca Raton,CITY
+New Britain,CITY
+Roseville,CITY
+Cleveland Heights,CITY
+Gresham,CITY
+Lauderhill,CITY
+Hendersonville,CITY
+Santa Clara,CITY
+Oceanside,CITY
+Lake Forest,CITY
+Novi,CITY
+West New York,CITY
+Everett,CITY
+Linden,CITY
+Asheville,CITY
+Compton,CITY

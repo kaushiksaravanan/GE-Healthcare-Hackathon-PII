@@ -1,0 +1,18 @@
+accelerate
+beautifulsoup4
+Faker
+faker-crypto
+flask
+flask-cors
+ftplib
+# used mysqlclinet cuz ModuleNotFoundError: No module named 'MySQLdb'
+mysqlclient
+presidio-analyzer
+presidio-anonymizer
+python-dotenv
+requests
+spacy
+sqlalchemy
+pymysql
+psycopg2-binary
+klepto

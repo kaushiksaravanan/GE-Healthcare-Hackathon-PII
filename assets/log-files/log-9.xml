@@ -1,0 +1,211 @@
+<LogEntries>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:00:00</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device startup</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <Model>HeartMonitor-3000</Model>
+            <Firmware>1.2.3</Firmware>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:05:15</Timestamp>
+        <Level>INFO</Level>
+        <Message>Patient data recorded</Message>
+        <Details>
+            <PatientID>67890</PatientID>
+            <FirstName>John</FirstName>
+            <LastName>Doe</LastName>
+            <DOB>1970-01-01</DOB>
+            <HeartRate>72</HeartRate>
+            <BP>120/80</BP>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:10:30</Timestamp>
+        <Level>INFO</Level>
+        <Message>Routine calibration performed</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <CalibrationID>CAL45678</CalibrationID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:15:45</Timestamp>
+        <Level>WARN</Level>
+        <Message>Low battery</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <BatteryLevel>15%</BatteryLevel>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:20:00</Timestamp>
+        <Level>INFO</Level>
+        <Message>Patient data recorded</Message>
+        <Details>
+            <PatientID>67891</PatientID>
+            <FirstName>Jane</FirstName>
+            <LastName>Smith</LastName>
+            <DOB>1985-05-15</DOB>
+            <HeartRate>85</HeartRate>
+            <BP>130/85</BP>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:25:15</Timestamp>
+        <Level>ERROR</Level>
+        <Message>Sensor malfunction</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <SensorID>SEN7890</SensorID>
+            <ErrorCode>E001</ErrorCode>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:30:30</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device rebooted</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:35:45</Timestamp>
+        <Level>INFO</Level>
+        <Message>Software update installed</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <OldFirmware>1.2.3</OldFirmware>
+            <NewFirmware>1.2.4</NewFirmware>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:40:00</Timestamp>
+        <Level>INFO</Level>
+        <Message>Patient data recorded</Message>
+        <Details>
+            <PatientID>67892</PatientID>
+            <FirstName>Robert</FirstName>
+            <LastName>Brown</LastName>
+            <DOB>1990-07-22</DOB>
+            <HeartRate>68</HeartRate>
+            <BP>118/76</BP>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:45:15</Timestamp>
+        <Level>INFO</Level>
+        <Message>Scheduled maintenance completed</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <MaintenanceID>MAIN56789</MaintenanceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:50:30</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device self-check passed</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T09:55:45</Timestamp>
+        <Level>INFO</Level>
+        <Message>Patient data recorded</Message>
+        <Details>
+            <PatientID>67893</PatientID>
+            <FirstName>Emily</FirstName>
+            <LastName>White</LastName>
+            <DOB>2000-11-30</DOB>
+            <HeartRate>78</HeartRate>
+            <BP>115/75</BP>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:00:00</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device idle</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:05:15</Timestamp>
+        <Level>WARN</Level>
+        <Message>High temperature detected</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <Temperature>85°C</Temperature>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:10:30</Timestamp>
+        <Level>INFO</Level>
+        <Message>Patient data recorded</Message>
+        <Details>
+            <PatientID>67894</PatientID>
+            <FirstName>William</FirstName>
+            <LastName>Black</LastName>
+            <DOB>1975-03-15</DOB>
+            <HeartRate>75</HeartRate>
+            <BP>122/78</BP>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:15:45</Timestamp>
+        <Level>INFO</Level>
+        <Message>Battery replacement required</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:20:00</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device connected to network</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <IP>192.168.1.100</IP>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:25:15</Timestamp>
+        <Level>INFO</Level>
+        <Message>Patient data recorded</Message>
+        <Details>
+            <PatientID>67895</PatientID>
+            <FirstName>Olivia</FirstName>
+            <LastName>Green</LastName>
+            <DOB>1988-12-12</DOB>
+            <HeartRate>82</HeartRate>
+            <BP>125/80</BP>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:30:30</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device shutdown</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+        </Details>
+    </LogEntry>
+    <LogEntry>
+        <Timestamp>2024-06-20T10:35:45</Timestamp>
+        <Level>INFO</Level>
+        <Message>Device startup</Message>
+        <Details>
+            <DeviceID>HD12345</DeviceID>
+            <Model>HeartMonitor-3000</Model>
+            <Firmware>1.2.4</Firmware>
+        </Details>
+    </LogEntry>
+</LogEntries>
